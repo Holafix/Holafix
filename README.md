@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Holafix
-- 👀 I’m interested in interactive Web applications(backend)
-- 🌱 I’m currently learning Python(Django)
-- 💞️ I’m looking to collaborate on Django related projects
+- 👀 I’m interested in interactive frontend web development
+- 🌱 I’m currently learning frontend development
+- 💞️ I’m looking to collaborate on frontend web development projects
 - 📫 Reach me via olatundeolawale111@gmail.com 
 
 <!---
